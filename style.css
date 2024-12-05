@@ -43,8 +43,12 @@ nav {
 }
 
 nav img {
-	left: 1rem;
-	scale: 0.3;
+	position: relative;
+	height: 1.9em;
+	margin-top: 1em;
+	margin-bottom: 0.5em;
+	padding: 0;
+	right: 4rem;
 }
 
 section:nth-of-type(1) {
@@ -119,10 +123,23 @@ section:nth-of-type(3) p {
 }
 
 section:nth-of-type(3) ul {
-	list-style-image: url(images/checkmark.svg);
-	fill: green;
+	line-height: 2em;
 }
 
 section:nth-of-type(3) li {
 	font-weight: 300;
+}
+
+button:nth-of-type(1) {
+	background: #e84c0e;
+	border: none;
+	font-size: 1.2em;
+	padding: 2em;
+
+}
+
+button:nth-of-type(2) {
+	font-size: 1.2em;
+	background: white;
+	border-color: #7f7f7f;
 }
