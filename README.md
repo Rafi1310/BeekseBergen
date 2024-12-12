@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Rafi IJssel
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  Responsive
  
 </details>
 
@@ -56,7 +56,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+  De website is best toegankelijk. Als je wil inloggen met je account is er geen terugknop naar het hoofdmenu, want het hamburger menu verdwijnt ineens.
   
 
 </details>
@@ -230,8 +230,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. Alle foto's komen van https://www.beeksebergen.nl/ en https://mijn.beeksebergen.nl/
+  2. 
+  3. 
 
 </details>
